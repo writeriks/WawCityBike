@@ -1,0 +1,42 @@
+{
+  "name": "city-bike-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.19.2",
+    "google-map-react": "^1.1.4",
+    "lodash.isempty": "^4.4.0",
+    "moment": "2",
+    "react": "^16.8.6",
+    "react-addons": "^0.9.1-deprecated",
+    "react-controllables": "^0.6.0",
+    "react-dom": "^16.8.6",
+    "react-pure-render": "^1.0.2",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0"
+  }
+}
